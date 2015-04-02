@@ -1,0 +1,251 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 517
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Cameroon ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 22
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 4
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 6
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 7
+	Date: 2015-03-06 ; Times: 8
+	Date: 2015-03-07 ; Times: 6
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 6
+	Date: 2015-03-14 ; Times: 6
+	Date: 2015-03-15 ; Times: 8
+	Date: 2015-03-16 ; Times: 4
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 2
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 4
+	Date: 2015-03-23 ; Times: 5
+	Date: 2015-03-24 ; Times: 16
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Schenectady" stateprovince:"New York" year >= 1900 year <= 2015" ; Times: 1
+	Query: "stateprovince:"chihuahua" country:"mexico" specificepithet:flagellum genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"Mexico" genus:Adelphicos year <= 2014" ; Times: 1
+	Query: "ranidae institutioncode:ANSP (skel)" ; Times: 1
+	Query: "ranidae institutioncode:ANSP" ; Times: 2
+	Query: "elaphe stateprovince:"New York"" ; Times: 1
+	Query: "scaphiopus bombifrons year >= 1700 year <= 1940" ; Times: 1
+	Query: "kirtlandii stateprovince:"pennsylvania"" ; Times: 2
+	Query: "Ambystoma tigrinum tigrinum AND (ohio)" ; Times: 1
+	Query: "country:"mexico" specificepithet:taeniatus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "ambystoma jalisco" ; Times: 1
+	Query: "Celestus occiduus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Enulius flavitorques" ; Times: 8
+	Query: "Diadophis stateprovince:"Arizona"" ; Times: 1
+	Query: "azolla" ; Times: 1
+	Query: "extenuata" ; Times: 1
+	Query: "specificepithet:pliolepis genus:Trimetopon" ; Times: 4
+	Query: "marmorata genus:Clemmys" ; Times: 1
+	Query: "Python molurus bivittatus type:specimen" ; Times: 1
+	Query: "gyalopion socorro new mexico" ; Times: 2
+	Query: "stateprovince:"pennsylvania" (kirtlandii)" ; Times: 1
+	Query: "stateprovince:"chiapas" country:"mexico" specificepithet:septentrionalis genus:leptodeira year <= 2014" ; Times: 1
+	Query: "genus:Hydromorphus" ; Times: 1
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "Anolis hobartsmithi" ; Times: 1
+	Query: "Plectrohyla sagorum stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:spinifera genus:Apalone (skull OR skeleton)" ; Times: 1
+	Query: "Arizona elegans Occidentalis" ; Times: 2
+	Query: "country:"mexico" specificepithet:sartorii genus:sibon year <= 2014" ; Times: 1
+	Query: "Basiliscus vittatus stateprovince:"chiapas" country:"mexico"" ; Times: 1
+	Query: "Rhadinaea godmani" ; Times: 1
+	Query: "Bolitoglossa franklini stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Kachuga tecta AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"mexico" specificepithet:septentrionalis genus:leptodeira year <= 2014" ; Times: 1
+	Query: "sistrurus miliarius streckeri stateprovince:"arkansas"" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Rhadinaea gaigeae" ; Times: 1
+	Query: ""ambystoma mabeei" "south carolina"" ; Times: 1
+	Query: "Bolitoglossa occidentalis stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "areolata stateprovince:"Louisiana"" ; Times: 3
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Callagur borneoensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: ""necturus" "ohio"" ; Times: 3
+	Query: ""cryptobranchus" "ohio"" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "opipeuter xestus" ; Times: 3
+	Query: "Anolis cobanensis" ; Times: 2
+	Query: "specificepithet:mocquardi genus:Tretanorhinus" ; Times: 2
+	Query: "stateprovince:"alabama" specificepithet:crepitans genus:Acris" ; Times: 1
+	Query: "anelytropsis" ; Times: 1
+	Query: "Staurotypus salvinii AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "jacobuspetersi" ; Times: 1
+	Query: "Xenopus clivii" ; Times: 1
+	Query: "naja sputatrix" ; Times: 4
+	Query: "Chironius monticola" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Thamnophis eques year >= 1900 year <= 1930" ; Times: 1
+	Query: "Kachuga kachuga AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "masticophis ruthveni" ; Times: 1
+	Query: "Eleutherodactylus weinlandi" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "ambystoma tigrinum tigrinum ohio" ; Times: 1
+	Query: "stateprovince:"maryland" genus:virginia" ; Times: 1
+	Query: "Manouria emys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "specificepithet:erosa genus:Kinixys" ; Times: 1
+	Query: "Lampropeltis county:"Imperial" stateprovince:"California"" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "heterodon socorro new mexico" ; Times: 1
+	Query: ""pseudotriton ruber" ohio" ; Times: 1
+	Query: "Pelusios niger AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "rhadinaea lachrymans" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "C. alleganiensis" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "Leptodactylus melanonotus stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "bufonidae institutioncode:ANSP (dry)" ; Times: 1
+	Query: "leptotyphlops albifrons" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "Plectrohyla ixil stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:versicolor genus:Hyla" ; Times: 1
+	Query: "Anolis anisolepis" ; Times: 2
+	Query: "Pelusios rhodesianus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "kassina maculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 298 download events in this period)
+Total number of records downloaded: 3580 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 3
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 4
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 6
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "Anolis cobanensis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Sceloporus scalaris stateprovince:"Arizona" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "eleutherodactylus ridens" ; Times: 1
+	Query: "county:"Warren" stateprovince:"Pennsylvania" class:amphibia year >= 1888 year <= 1980" ; Times: 2
+	Query: "Norops" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "plethodon metcalfi year >= 1980 year <= 2015" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Thorius narisovalis" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Amphisbaena fuliginosa" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "riobambae" ; Times: 2
+	Query: "ascaphus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (ohio)" ; Times: 1
+	Query: "county:"Warren" stateprovince:"Pennsylvania" class:amphibia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "eleutherodactylus cruentus" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 451
+Total number of records retrieved from searches: 1723
+Number of download events that retrieved data from the resource: 163
+Total number of records downloaded: 30412
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 627
+Total number of records retrieved from searches: 2412
+Number of download events that retrieved data from the resource: 225
+Total number of records downloaded: 34297
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
