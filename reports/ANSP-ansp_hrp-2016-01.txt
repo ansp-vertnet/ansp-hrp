@@ -1,0 +1,262 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 702
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 91
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 35
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Namibia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 16
+	Date: 2016-01-23 ; Times: 10
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 13
+	Date: 2016-01-26 ; Times: 12
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-24 ; Times: 8
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 9
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 9
+	Date: 2016-01-20 ; Times: 7
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 14
+	Date: 2016-01-12 ; Times: 6
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "specificepithet:lanceolatus genus:bothrops (Martinique)" ; Times: 1
+	Query: "eryx colubrinus" ; Times: 11
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "Hyla eximia stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "ANSP 8359" ; Times: 1
+	Query: "enulius flavitorques country:&#34;panama&#34;" ; Times: 2
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "specificepithet:trigeminus genus:Oxyrhopus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ANSP 22564 Micrurus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "bufo cristatus stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "Micrurus transandinus" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "type:specimen specificepithet:conspicillata genus:Elaphe" ; Times: 1
+	Query: "pseudoeurycea cephalica stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:savagei" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "specificepithet:ochrophaeus county:&#34;wyoming&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "vaillanti mexico" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Draco maculatus Thailand" ; Times: 1
+	Query: "Chamaesaura macrolepis" ; Times: 1
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (Anelytropsis)" ; Times: 1
+	Query: "specificepithet:scutatus genus:Hemiphractus family:Hylidae order:Anura class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:radiata genus:elaphe" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "Chiropterotriton chiropterus stateprovince:&#34;veracruz&#34;" ; Times: 2
+	Query: "specificepithet:cephalica genus:Pseudoeurycea stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 4
+	Query: "&#34;naja kaouthia&#34;" ; Times: 1
+	Query: "Alsophis elegans" ; Times: 3
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:rana county:&#34;sullivan&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "county:&#34;Hunterdon&#34; (Eurycea)" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "vibicaria" ; Times: 1
+	Query: "Necturus punctatus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Caecilia specificepithet:gracilis" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 2
+	Query: "ANSP 6844" ; Times: 1
+	Query: "Thailand Draco maculatus" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "Ambystoma platineum" ; Times: 2
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;Hidalgo&#34;" ; Times: 1
+	Query: "Pristurus flavipunctatus" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "specificepithet:ochrophaeus county:&#34;luzerne&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 2
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 8
+	Query: "vipera ursinii" ; Times: 1
+	Query: "gloydi" ; Times: 1
+	Query: "Bolitoglossa platydactyla stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "type:specimen specificepithet:subocularis genus:elaphe" ; Times: 1
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "specificepithet:depressirostris genus:Leptophis" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "type:specimen specificepithet:triaspis genus:elaphe" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "clonophis" ; Times: 1
+	Query: "genus:Polypedates specificepithet:otilophus" ; Times: 1
+	Query: "type:specimen specificepithet:nevermanni genus:Crisantophis" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "county:&#34;Hunterdon&#34; (Caudata)" ; Times: 1
+	Query: "Alsophis biserialis" ; Times: 2
+	Query: "Eumeces copei" ; Times: 1
+	Query: "sooglossidae" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "rhadinaea fulvivittis oaxaca" ; Times: 1
+	Query: "ANSP 34342 Micrurus" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 2
+	Query: "genus:Rhinatrema specificepithet:bivittatum" ; Times: 1
+	Query: "Erythrolamprus bizona" ; Times: 1
+	Query: "Rhinocheilus lecontei stateprovince:California county:Inyo" ; Times: 1
+	Query: "class:amphibia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "ANSP 15437" ; Times: 1
+	Query: "ANSP 15436" ; Times: 5
+	Query: "eleutherodactylus cooki" ; Times: 1
+	Query: "mosquitensis" ; Times: 1
+	Query: "specificepithet:vibakari genus:Amphiesma" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 2
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Chiropterotriton arboreus" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Gonatodes caudiscutatus" ; Times: 1
+	Query: "Dendrophidion vinitor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 507 download events in this period)
+Total number of records downloaded: 6745
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Bufo californicus" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "ameiva quadrilineata country:&#34;panama&#34;" ; Times: 2
+	Query: "boylii" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "enulius flavitorques country:&#34;panama&#34;" ; Times: 4
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "Erythrolamprus bizona" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "&#34;Ensatina eschscholtzii croceater&#34;" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "order:Caudata country:&#34;USA&#34;" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
