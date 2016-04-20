@@ -1,0 +1,111 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 10
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 10
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "genus:Staurois specificepithet:guttatus" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Plectrohyla quecchi" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "Plectrohyla Chiapas" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "telmatobius jelskii" ; Times: 1
+	Query: "anolis ortoni" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Leptobrachium chapaense" ; Times: 1
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "Plectrohyla glandulosa" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 2
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 230 download events in this period)
+Total number of records downloaded: 1655
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 5
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "Oxapampa Amphibia" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
