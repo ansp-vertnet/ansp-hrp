@@ -1,0 +1,305 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1732
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 141
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 34
+	Country: Sweden ; Times: 7
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-09 ; Times: 11
+	Date: 2018-12-06 ; Times: 5
+	Date: 2018-12-19 ; Times: 11
+	Date: 2018-12-18 ; Times: 6
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-15 ; Times: 12
+	Date: 2018-12-14 ; Times: 7
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-16 ; Times: 5
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-13 ; Times: 13
+	Date: 2018-12-12 ; Times: 26
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 7
+	Date: 2018-12-23 ; Times: 14
+	Date: 2018-12-24 ; Times: 5
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-27 ; Times: 7
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 3
+	Date: 2018-12-04 ; Times: 15
+	Date: 2018-12-05 ; Times: 5
+	Date: 2018-12-02 ; Times: 4
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Sphaerodactylus guatemala" ; Times: 1
+	Query: "specificepithet:speciosus genus:Bufo class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus tigris sonora" ; Times: 2
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Tropidonophis doriae" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;North Carolina&#34; Micrurus fulvius" ; Times: 1
+	Query: "specificepithet:santeetlah genus:Desmognathus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "gonatodes aruba" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;alabama&#34; country:&#34;usa&#34;" ; Times: 2
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "hemidactylium scutatum ansp maryland" ; Times: 1
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:insignis genus:anolis" ; Times: 1
+	Query: "stateprovince:&#34;Georgia&#34; Crotalus adamanteus" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "genus:tropidophis stateprovince:&#34;grand cayman&#34;" ; Times: 1
+	Query: "genus:Atelopus specificepithet:glyphus" ; Times: 5
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 2
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "ANSP herpetology" ; Times: 1
+	Query: "Crotalus viridis lutosus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "hemidactylium scutatum ansp" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Sphaerodactylus colombia" ; Times: 3
+	Query: "atelopus halihelos" ; Times: 1
+	Query: "specificepithet:orbiculare genus:Phrynosoma stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pituophis Mississippi" ; Times: 2
+	Query: "Jefferson county capito" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brown&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "specificepithet:plumifrons genus:basiliscus country:&#34;costa rica&#34;" ; Times: 2
+	Query: "order:gymnophiona country:&#34;thailand&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "bothrops lanceolatus" ; Times: 2
+	Query: "Leptodeira nigrofasciata" ; Times: 2
+	Query: "stateprovince:&#34;South Carolina&#34; Micrurus fulvius" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gbifdatasetid:86594bf6-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "bufo americanus clarke" ; Times: 1
+	Query: "specificepithet:purpureomaculatus genus:Trimeresurus country:&#34;India&#34;" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "Telmatobufo" ; Times: 1
+	Query: "stateprovince:&#34;Georgia&#34; Drymarchon couperi" ; Times: 1
+	Query: "Tropidonophis dendrophiops" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Mexico&#34; institutioncode:ANSP hastypestatus:1" ; Times: 1
+	Query: "amphiesma stolata india" ; Times: 1
+	Query: "Hypnale nepa" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "polychrus gutturosus" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gastrophryne class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "naja naja india" ; Times: 1
+	Query: "bolitoglossa savagei" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Tropidonophis elongatus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Roberts&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:meridionalis genus:anolis" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Bothrops country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:lemur" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Clemmys muhlenbergii" ; Times: 3
+	Query: "sphaerodactylus microlepis" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Sarasota&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:petersi genus:anolis" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "salamandrina" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "order:Testudines institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinoclemmys rubida colima" ; Times: 1
+	Query: "33307 institutioncode:ANSP" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "hypnale" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "Gonatodes bonaire" ; Times: 1
+	Query: "genus:sphaerodactylus stateprovince:&#34;grand cayman&#34;" ; Times: 1
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Mexico&#34; institutioncode:ANSP" ; Times: 4
+	Query: "family:colubridae county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "institutioncode:ANSP hastissue:1" ; Times: 2
+	Query: "genus:Dicamptodon county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "eryx conicus india" ; Times: 1
+	Query: "causus rhombeatus" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Drymarchon couperi" ; Times: 3
+	Query: "specificepithet:galeanae genus:pseudoeurycea" ; Times: 1
+	Query: "bothriopsis bilineata" ; Times: 3
+	Query: "class:reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Pseudacris class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oxyrhopus Mexico" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34; year &gt;= 1900 year &lt;= 1980" ; Times: 1
+	Query: "ptyas mucosus india" ; Times: 1
+	Query: "Anolis roquet" ; Times: 16
+	Query: "vntype:specimen class:Amphibia institutioncode:ANSP hastypestatus:1" ; Times: 4
+	Query: "Imantodes lentiferus" ; Times: 1
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "vipera palaestinae" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "Anolis anisolepis" ; Times: 1
+	Query: "vntype:specimen specificepithet:nicefori genus:anolis" ; Times: 1
+	Query: "Tropidonophis halmahericus" ; Times: 1
+	Query: "Gonatodes caudiscutatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 809 download events in this period)
+Total number of records downloaded: 5142
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 35
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-07 ; Times: 10
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 19
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "helicops" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 1
+	Query: "Calotes versicolor country:&#34;china&#34;" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "rana blairi" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "genus:Colostethus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:santeetlah genus:Desmognathus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "Anolis allisoni" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Anolis serranoi" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "eleutherodactylus audanti" ; Times: 1
+	Query: "order:Testudines institutioncode:ANSP" ; Times: 1
+	Query: "Naja atra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anolis anisolepis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "Eleutherodactylus weinlandi" ; Times: 1
+
+
+End of report.
