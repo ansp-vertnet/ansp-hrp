@@ -1,0 +1,367 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 389
+Number of records retrieved in searches: 2840
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: United States ; Times: 265
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: Saint Kitts and Nevis ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 26
+	Country: Sweden ; Times: 20
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Ecuador ; Times: 8
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 8
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 18
+	Date: 2019-01-23 ; Times: 12
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 8
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 15
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 23
+	Date: 2019-01-10 ; Times: 16
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-13 ; Times: 16
+	Date: 2019-01-03 ; Times: 23
+	Date: 2019-01-02 ; Times: 30
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 24
+	Date: 2019-01-01 ; Times: 6
+	Date: 2019-01-07 ; Times: 15
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 28
+	Date: 2019-01-04 ; Times: 24
+	Date: 2019-01-21 ; Times: 15
+	Date: 2019-01-20 ; Times: 22
+	Date: 2019-01-09 ; Times: 8
+	Date: 2019-01-22 ; Times: 9
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 9
+	Date: 2019-01-27 ; Times: 6
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia south carolina richland" ; Times: 1
+	Query: "Xenopus tropicalis" ; Times: 1
+	Query: "stereochilus marginatus virginia" ; Times: 1
+	Query: "pseudoeurycea werleri vntype:specimen" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 2
+	Query: "Atelopus seminiferus" ; Times: 1
+	Query: "specificepithet:taeniatus family:colubridae stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "miami collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "Reptilia Georgia jones" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34; AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:principalis brunneus genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "Ascaphus Siskiyou" ; Times: 3
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 3
+	Query: "Sistrurus catenatus edwardsii" ; Times: 3
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Anolis Loysianus" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Hemidactylus institutioncode:ANSP" ; Times: 2
+	Query: "Masticophis schotti" ; Times: 2
+	Query: "Enyalioides heterolepis" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "Reptilia Arkansas union" ; Times: 2
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "specificepithet:bocourtii genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "genus:Pseudoboa stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "ANSP-12404" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "county:&#34;san diego&#34; stateprovince:&#34;California&#34; institutioncode:ANSP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptodeira bakeri" ; Times: 1
+	Query: "fulvius north carolina" ; Times: 1
+	Query: "Baird institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Colombia&#34;" ; Times: 5
+	Query: "genus:Liopeltis" ; Times: 1
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "16264" ; Times: 1
+	Query: "Rhadinaea calligaster" ; Times: 2
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "monotropis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 5
+	Query: "liopeltis tricolor" ; Times: 4
+	Query: "20390* ansp" ; Times: 1
+	Query: "san francisco collectioncode:HRP institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:lineatus genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "class:amphibia county:&#34;clatsop&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "specificepithet:kemptoni genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "eleutherodactylus megalops" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:cinnamomeus genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "anolis nicefori" ; Times: 3
+	Query: "occiduus" ; Times: 1
+	Query: "Typhlomolge rathbuni" ; Times: 1
+	Query: "genus:Pseudoboa stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:scaphiopus class:Amphibia stateprovince:&#34;California&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "anolis alutaceus" ; Times: 1
+	Query: "specificepithet:scalaris genus:thamnophis collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "genus:Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Rana taylori" ; Times: 1
+	Query: "family:Gekkonidae county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 1
+	Query: "ANSP-3673" ; Times: 1
+	Query: "specificepithet:nicefori genus:anolis institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Fairfax&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15254 institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "los angeles collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "iptrecordid:&#34;7836&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Dicrodon heterolepis" ; Times: 5
+	Query: "iptrecordid:&#34;25865&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;georgia&#34;" ; Times: 21
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Epicrionops" ; Times: 3
+	Query: "specificepithet:reticulata genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "class:amphibia county:&#34;Cowlitz&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "gbifdatasetid:86594bf6-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "31794" ; Times: 1
+	Query: "specificepithet:annulata genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:nicefori genus:anolis" ; Times: 6
+	Query: "Amphibia Georgia coffee" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 5
+	Query: "20390 ansp" ; Times: 1
+	Query: "genus:Elaphe county:&#34;Matagorda&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:brachystoma genus:thamnophis collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "Atelopus boulengeri" ; Times: 1
+	Query: "class:Reptilia county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:heterolepis genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 17
+	Query: "Lippincott stateprovince:&#34;California&#34; institutioncode:ANSP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "sphaerodactylus sputator" ; Times: 1
+	Query: "specificepithet:nebulosus genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:ANSP" ; Times: 3
+	Query: "genus:Lichanura country:&#34;mexico&#34;" ; Times: 2
+	Query: "Rhinatrema" ; Times: 4
+	Query: "anolis roquet" ; Times: 1
+	Query: "Rana sevosa" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34; AND (NOT MEXICO)" ; Times: 1
+	Query: "Atelopus walkeri" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:ANSP" ; Times: 1
+	Query: "13618 institutioncode:ANSP" ; Times: 2
+	Query: "ANSP 3671" ; Times: 1
+	Query: "Sistrurus Missouri" ; Times: 2
+	Query: "15197 institutioncode:ANSP" ; Times: 2
+	Query: "genus:natrix institutioncode:ANSP" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:harrissoni" ; Times: 2
+	Query: "specificepithet:flagellum genus:masticophis stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "holbrookia navajo" ; Times: 1
+	Query: "vntype:specimen genus:pituophis stateprovince:&#34;Nuevo Leon&#34;" ; Times: 1
+	Query: "bufo juxtasper" ; Times: 1
+	Query: "genus:Pseudoboa stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Eleutherodactylus country:&#34;Mexico&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:ambystoma country:&#34;Mexico&#34; collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (extenuata)" ; Times: 1
+	Query: "iptrecordid:&#34;1589&#34;" ; Times: 1
+	Query: "chicago collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 1
+	Query: "Atractaspis aterrima" ; Times: 6
+	Query: "liopeltis" ; Times: 2
+	Query: "&#34;S. F. Baird&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:hobartsmithi genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "genus:Rhinatrema" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Thrasops jacksoni" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Vernalis illinois" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 1
+	Query: "specificepithet:intermedius genus:crotalus year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Crotalus veracruz" ; Times: 3
+	Query: "specificepithet:cingulatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 2
+	Query: "genus:Hemidactylus country:&#34;USA&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Atelopus halihelos" ; Times: 2
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "philadelphia county:&#34;Philadelphia&#34; collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla country:&#34;Costa Rica&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "ANSP-12363" ; Times: 2
+	Query: "specificepithet:guianensis genus:PHimophis country:&#34;Panama&#34; AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis country:&#34;Panama&#34; AND (NOT MEXICO)" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; institutioncode:ANSP" ; Times: 1
+	Query: "class:Reptilia county:&#34;Philadelphia&#34; year &gt;= 1682 year &lt;= 1899 institutioncode:ANSP" ; Times: 1
+	Query: "clemmys indiana" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus country:&#34;Panama&#34;" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 3
+	Query: "philadelphia collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:mariarum genus:anolis institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 7
+	Query: "15212 institutioncode:ANSP" ; Times: 2
+	Query: "stateprovince:&#34;Pennsylvania&#34; (Baird) institutioncode:ANSP" ; Times: 1
+	Query: "gyalopion canum" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus AND (NOT MEXICO)" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "rhadinaea lachrymans" ; Times: 1
+	Query: "Reptilia south carolina orangeburg" ; Times: 1
+	Query: "19838 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:intermedius genus:crotalus" ; Times: 3
+	Query: "rhineura" ; Times: 1
+	Query: "tree frogs" ; Times: 2
+	Query: "Leioheterodon madagascariensis" ; Times: 2
+	Query: "35646" ; Times: 1
+	Query: "genus:crotalus (Oaxaco OR Veracruz OR Chiapas OR Puebla)" ; Times: 1
+	Query: "Corytophanes percarinatus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "iptrecordid:&#34;7897&#34; institutioncode:ANSP" ; Times: 2
+	Query: "rhadinaea godmani" ; Times: 1
+	Query: "genus:Scolecophis" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "20112 institutioncode:ANSP" ; Times: 2
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "specificepithet:oxylophus genus:anolis institutioncode:ANSP" ; Times: 2
+	Query: "genus:thamnophis country:&#34;Mexico&#34; collectioncode:HRP institutioncode:ANSP" ; Times: 1
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "Anolis loysianus" ; Times: 1
+	Query: "Reptilia tigris arizona mohave" ; Times: 2
+	Query: "genus:Rhinatrema basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:gigantea family:plethodontidae AND (NOT tigrinum NOT mavortium NOT velasci)" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:iguana genus:iguana year &gt;= 1980 year &lt;= 1990 month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "(Baird) institutioncode:ANSP" ; Times: 2
+	Query: "order:anura (cochranae)" ; Times: 1
+	Query: "iptrecordid:&#34;7898&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Opheodrys vernalis nebraska" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34; institutioncode:ANSP" ; Times: 1
+	Query: "ANSP-24327" ; Times: 1
+	Query: "15196 institutioncode:ANSP" ; Times: 2
+	Query: "genus:Pituophis family:colubridae stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "17222 institutioncode:ANSP" ; Times: 1
+	Query: "genus:vipera institutioncode:ANSP" ; Times: 2
+	Query: "Atelopus glyphus" ; Times: 2
+	Query: "Morunasaurus groi" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Enyalioides laticeps" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 4
+	Query: "anolis auratus" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;puebla&#34; AND (NOT tigrinum NOT mavortium NOT velasci)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 962 download events in this period)
+Total number of records downloaded: 695
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "eurycea neotenes" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "siren intermedia" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Nauta" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Epicrionops" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "specificepithet:wehrlei genus:Plethodon" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "specificepithet:aureolus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Abronia" ; Times: 1
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+
+
+End of report.
