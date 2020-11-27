@@ -1,0 +1,355 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 798
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 40
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Myanmar ; Times: 3
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 144
+	Country: Sweden ; Times: 11
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 14
+	Country: Belgium ; Times: 10
+	Country: Thailand ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 2
+	Date: 2019-12-24 ; Times: 50
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 6
+	Date: 2019-12-22 ; Times: 6
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 17
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 51
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 5
+	Date: 2019-12-13 ; Times: 5
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 6
+	Date: 2019-12-17 ; Times: 10
+	Date: 2019-12-30 ; Times: 16
+	Date: 2019-12-31 ; Times: 9
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 12
+	Date: 2019-12-07 ; Times: 11
+	Date: 2019-12-06 ; Times: 5
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 9
+	Date: 2019-12-02 ; Times: 15
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lincolni genus:Bolitoglossa country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:chondrostega genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "dipsas nicholsi" ; Times: 1
+	Query: "pituophis lineaticollis mexico" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Bothrops institutioncode:ANSP" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "ANSP 33103" ; Times: 1
+	Query: "Ambystoma mabeei jasper south carolina" ; Times: 1
+	Query: "ANSP 16082" ; Times: 1
+	Query: "ANSP-3840" ; Times: 1
+	Query: "specificepithet:horsfieldii genus:testudo" ; Times: 7
+	Query: "country:Ecuador scientificname:Atelopus boulengeri " ; Times: 1
+	Query: "ANSP 16083" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 1
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops asper " ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "ANSP-2444" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "specificepithet:undulatus genus:Sceloporus county:&#34;pasco&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "crocodylus Borneo" ; Times: 3
+	Query: "country:Ecuador scientificname:Iguana iguana " ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "marin co sceloporus" ; Times: 1
+	Query: "genus:Atelopus specificepithet:glyphus" ; Times: 1
+	Query: "Eunectes deschauenseei" ; Times: 2
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ANSP 23643" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "ANSP 23641" ; Times: 1
+	Query: "specificepithet:certus genus:Atelopus" ; Times: 2
+	Query: "&#34;micrurus fulvius&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis institutioncode:ANSP" ; Times: 1
+	Query: "ANSP-24213" ; Times: 1
+	Query: "specificepithet:walkeri genus:Atelopus" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Moore&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "gastrotheca weinlandii" ; Times: 3
+	Query: "specificepithet:boulengeri genus:Atelopus" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "ANSP-1493" ; Times: 1
+	Query: "genus:Pseudoeurycea specificepithet:werleri" ; Times: 1
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "specificepithet:aestivus stateprovince:&#34;pennsylvania&#34;" ; Times: 7
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "specificepithet:viviparus genus:Nectophrynoides" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 3
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Amphiesma craspedogaster" ; Times: 1
+	Query: "ANSP 34297" ; Times: 1
+	Query: "aneides north carolina" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 2
+	Query: "ANSP-6055" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "33485 ANSP" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "specificepithet:mosaueri genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "hyla altipotens" ; Times: 11
+	Query: "specificepithet:aestivus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 2
+	Query: "specificepithet:planispina genus:Atelopus" ; Times: 2
+	Query: "Rana dybowskii" ; Times: 1
+	Query: "specificepithet:picta class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:tornieri genus:Nectophrynoides" ; Times: 2
+	Query: "reptilia Georgia appling" ; Times: 3
+	Query: "ANSP 35808" ; Times: 1
+	Query: "mastigodryas melanolomus mexico" ; Times: 1
+	Query: "specificepithet:seminiferus genus:Atelopus" ; Times: 2
+	Query: "ANSP-8536" ; Times: 1
+	Query: "ANSP 35806" ; Times: 2
+	Query: "ANSP 35807" ; Times: 2
+	Query: "ANSP 35804" ; Times: 1
+	Query: "ANSP 35805" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenocercus iridescens " ; Times: 1
+	Query: "specificepithet:callipleura order:Anura country:&#34;Peru&#34;" ; Times: 1
+	Query: "ANSP 16091" ; Times: 1
+	Query: "rana vaillanti mexico" ; Times: 1
+	Query: "ANSP 29418" ; Times: 1
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 2
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:halihelos genus:Atelopus" ; Times: 2
+	Query: "Abronia graminea" ; Times: 1
+	Query: "ANSP 29417" ; Times: 1
+	Query: "ANSP 29257" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ANSP 29252" ; Times: 1
+	Query: "ANSP 29795" ; Times: 1
+	Query: "5867 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:elegans genus:Atelopus" ; Times: 2
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus county:&#34;Pinellas&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "ANSP 35810" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ansp 19673" ; Times: 1
+	Query: "ANSP-4319" ; Times: 1
+	Query: "Atelopus halihelos" ; Times: 6
+	Query: "ansp 19677" ; Times: 1
+	Query: "ansp 19676" ; Times: 1
+	Query: "ansp 19675" ; Times: 1
+	Query: "ansp 19674" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "ansp 19679" ; Times: 1
+	Query: "ansp 19678" ; Times: 1
+	Query: "ANSP 16085" ; Times: 1
+	Query: "ANSP 16084" ; Times: 1
+	Query: "ANSP 16087" ; Times: 1
+	Query: "ANSP 16086" ; Times: 1
+	Query: "ANSP 34302" ; Times: 1
+	Query: "ANSP 34306" ; Times: 1
+	Query: "ANSP 34307" ; Times: 1
+	Query: "ANSP 34305" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Bolitoglossa country:&#34;México&#34;" ; Times: 1
+	Query: "ANSP 34308" ; Times: 1
+	Query: "Oedipina savagei" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "chamaeleo gracilis" ; Times: 1
+	Query: "Dipsas nicholsi" ; Times: 4
+	Query: "13110" ; Times: 1
+	Query: "ANSP 29271" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 2
+	Query: "Kachuga trivittata" ; Times: 3
+	Query: "country:Ecuador scientificname:Micrurus ancoralis " ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "specificepithet:glyphus genus:Atelopus" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Lincoln&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hemidactylus mexico mexico" ; Times: 2
+	Query: "Ambystoma mabeei jasper carolina" ; Times: 1
+	Query: "ANSP 29262" ; Times: 1
+	Query: "genus:Leptodrymus" ; Times: 1
+	Query: "James Bond ANSP" ; Times: 1
+	Query: "ensatina eschscholtzii croceater" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 2
+	Query: "ANSP 29770" ; Times: 1
+	Query: "ansp amphibia maine" ; Times: 1
+	Query: "ANSP 15189" ; Times: 1
+	Query: "cryptobranchus georgia" ; Times: 5
+	Query: "ANSP 29270" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 3
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Eurycea here is" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:gargarizans genus:Bufo" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Benton&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ANSP-24214" ; Times: 1
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "genus:Naja country:&#34;China&#34;" ; Times: 1
+	Query: "specificepithet:peltocephala genus:Peltophryne" ; Times: 2
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ANSP-3457" ; Times: 3
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "ANSP 29669" ; Times: 1
+	Query: "ANSP-1516" ; Times: 2
+	Query: "ansp reptilia maine" ; Times: 1
+	Query: "ANSP 29269" ; Times: 1
+	Query: "ansp 19672" ; Times: 1
+	Query: "ANSP 29267" ; Times: 1
+	Query: "ANSP 29266" ; Times: 1
+	Query: "ANSP 29265" ; Times: 1
+	Query: "ANSP 29264" ; Times: 1
+	Query: "ANSP 29263" ; Times: 1
+	Query: "ansp 19671" ; Times: 1
+	Query: "specificepithet:empusa genus:Peltophryne" ; Times: 2
+	Query: "genus:cnemidophorus county:&#34;pasco&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "ANSP 29268" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "ANSP-1494" ; Times: 1
+	Query: "Notophthalmus meridionalis texas" ; Times: 2
+	Query: "&#34;Micrurus&#34; &#34;north carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 596 download events in this period)
+Total number of records downloaded: 1460
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 28
+	Country: Japan ; Times: 1
+	Country: Honduras ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 27
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-14 ; Times: 3
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-10 ; Times: 8
+	Date: 2019-12-05 ; Times: 9
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:lincolni genus:Bolitoglossa country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:chondrostega genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Bolitoglossa country:&#34;México&#34;" ; Times: 1
+	Query: "Celestus costatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "ansp amphibia maine" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "little inagua" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Amolops" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Anolis scriptus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Sumatra&#34; country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "anolis scriptus" ; Times: 1
+	Query: "specificepithet:narisovalis genus:Thorius country:&#34;México&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "&#34;micrurus fulvius&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:dimidiatus genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "Oedipina savagei" ; Times: 1
+	Query: "specificepithet:mosaueri genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 1
+	Query: "Oedipina Uniformis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Abronia graminea" ; Times: 2
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
