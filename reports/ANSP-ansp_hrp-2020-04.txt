@@ -1,0 +1,580 @@
+Report for Institution Code ANSP, Resource ansp_hrp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 631
+Number of records retrieved in searches: 1992
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 13
+	Country: Panama ; Times: 6
+	Country: India ; Times: 7
+	Country: Peru ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 90
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 448
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 36
+	Date: 2020-04-04 ; Times: 5
+	Date: 2020-04-23 ; Times: 17
+	Date: 2020-04-06 ; Times: 30
+	Date: 2020-04-22 ; Times: 34
+	Date: 2020-04-05 ; Times: 33
+	Date: 2020-04-20 ; Times: 11
+	Date: 2020-04-07 ; Times: 112
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 38
+	Date: 2020-04-24 ; Times: 19
+	Date: 2020-04-25 ; Times: 6
+	Date: 2020-04-28 ; Times: 22
+	Date: 2020-04-29 ; Times: 14
+	Date: 2020-04-08 ; Times: 32
+	Date: 2020-04-09 ; Times: 40
+	Date: 2020-04-27 ; Times: 9
+	Date: 2020-04-02 ; Times: 22
+	Date: 2020-04-03 ; Times: 15
+	Date: 2020-04-19 ; Times: 5
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-12 ; Times: 17
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 23
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 12
+	Date: 2020-04-15 ; Times: 11
+	Date: 2020-04-14 ; Times: 35
+	Date: 2020-04-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:scorpioides scorpioides genus:Kinosternon hastissue:1" ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;kingfisher&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Siren intermedia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:glutinosus genus:plethodon stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "acris gryllus mississippi" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "scincella lateralis mississippi" ; Times: 1
+	Query: "specificepithet:argenteus genus:Oxybelis stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "micrurus north carolina" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dichrous genus:Drymoluber country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Acris Crepitans Mississippi" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Bufo japonicus" ; Times: 10
+	Query: "specificepithet:dichrous genus:Drymoluber" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "genus:Diadophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;kingfisher&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:scorpioides genus:Kinosternon hastissue:1" ; Times: 3
+	Query: "Osteocephalus planiceps" ; Times: 7
+	Query: "specificepithet:viridis genus:Crotalus country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Seminatrix class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;Massachusetts&#34;" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hyperolius tuberilinguis" ; Times: 6
+	Query: "genus:Siphlophis stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:rabdocephalus genus:Xenodon stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 1
+	Query: "Eleutherodactylus cooki" ; Times: 2
+	Query: "Tropidophis maculatus" ; Times: 7
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;New Hanover&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT ANOLIS) institutioncode:ANSP" ; Times: 1
+	Query: "genus:Apalone ferox stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Bufo gargarizans" ; Times: 10
+	Query: "genus:Clonophis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:rhinobothryum" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:storeria stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "34276" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 3
+	Query: "specificepithet:getulus genus:Lampropeltis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "ANSP 6242" ; Times: 2
+	Query: "genus:Epicrates class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT ANOLIS NOT HOLCOSUS NOT BASILISCUS NOT AMEIVA NOT IGUANA)" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Georgia&#34;" ; Times: 5
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Dermatemys institutioncode:ANSP" ; Times: 5
+	Query: "specificepithet:getulus genus:Lampropeltis stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "specificepithet:pardalis genus:Tropidophis country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "anolis bitectus" ; Times: 1
+	Query: "specificepithet:hammondii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;Connecticut&#34;" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "genus:Seminatrix class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:ANSP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Glynn&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Virginia valeriae mississippi" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pseudoboa class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;new hanover&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leptodactylus validus" ; Times: 2
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "genus:enhydris country:&#34;indonesia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Mcintosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Emanuel&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Neurergus crocatus" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Clelia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "specificepithet:cerastes county:&#34;inyo&#34;" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "dermatemys" ; Times: 1
+	Query: "Ptychohyla hypomykter" ; Times: 4
+	Query: "python reticulatus" ; Times: 3
+	Query: "genus:Caecilia specificepithet:gracilis" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 2
+	Query: "pseudacris feriarum mississippi" ; Times: 4
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:getulus genus:Lampropeltis stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Oxybelis class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "heterodon stateprovince:&#34;pennsylvania&#34;" ; Times: 6
+	Query: "Pelusios gabonensis" ; Times: 4
+	Query: "genus:Hydrophis country:&#34;Philippines&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "29346" ; Times: 1
+	Query: "genus:Elaphe stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "Chthonerpeton indistinctum" ; Times: 3
+	Query: "virginia valeriae mississippi" ; Times: 1
+	Query: "genus:Pseudoboa class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:atrata genus:Ninia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "opisthotropis" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Boa stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Imantodes stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Erythrolamprus aesculapii " ; Times: 2
+	Query: "crucialis" ; Times: 3
+	Query: "cryptobranchus county:&#34;westmoreland&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34; institutioncode:ANSP" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Narino&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colon&#34; country:&#34;Panama&#34; AND (NOT ANOLIS NOT HOLCOSUS NOT BASILISCUS NOT AMEIVA NOT IGUANA)" ; Times: 2
+	Query: "specificepithet:pholeter genus:amphiuma" ; Times: 3
+	Query: "elaphe dione" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "ANSP-6784" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 3
+	Query: "genus:Carphophis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "ANSP 11834" ; Times: 2
+	Query: "triseriata stateprovince:&#34;pennsylvania&#34;" ; Times: 3
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "acris crepitans mississippi" ; Times: 5
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:cenchria genus:Epicrates country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM) institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Obion&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "specificepithet:diastema genus:Micrurus country:&#34;Belize&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Opisthotropis" ; Times: 1
+	Query: "genus:masticophis county:&#34;Pender&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 3
+	Query: "ANSP 8590" ; Times: 3
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Philippines&#34;" ; Times: 6
+	Query: "specificepithet:vittatus genus:Basiliscus class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Opisthotropis latouchii" ; Times: 1
+	Query: "specificepithet:marcianus genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:polylepis genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "27883 class:reptilia" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:ruthveni genus:Macropholidus" ; Times: 6
+	Query: "anolis trachyderma OR norops trachyderma" ; Times: 1
+	Query: "cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Chersina angulata" ; Times: 1
+	Query: "Amphiesma sauteri" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Colon&#34; country:&#34;Panama&#34; AND (NOT ANOLIS NOT HOLCOSUS NOT BASILISCUS NOT AMEIVA NOT IGUANA)" ; Times: 1
+	Query: "sceloporus undulatus mississippi" ; Times: 1
+	Query: "genus:Cemophora class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;MIchigan&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Masticophis country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "cryptobranchus county:&#34;indiana&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Rana sphenocephala arkansas" ; Times: 1
+	Query: "genus:Liotyphlops class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:boa genus:Aplopeltura" ; Times: 1
+	Query: "specificepithet:enydris genus:Corallus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "bufo quercicus mississippi" ; Times: 1
+	Query: "specificepithet:collaris genus:Atractus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Micrurus alabama" ; Times: 2
+	Query: "Escambia county Heterodon" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dipsas indica " ; Times: 1
+	Query: "cenchoa imantodes colombia cundinamarca" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:heckscheri genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "clonophis stateprovince:&#34;pennsylvania&#34;" ; Times: 21
+	Query: "baileyi stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "bufo americanus louisiana" ; Times: 1
+	Query: "Petropedetes natator" ; Times: 4
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Pseudoboa stateprovince:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:heloderma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:trachyderma genus:Anolis institutioncode:ANSP" ; Times: 1
+	Query: "crotalus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Kinosternon scorpioides scorpioides hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Maine&#34;" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Connecticut&#34;" ; Times: 3
+	Query: "specificepithet:trachyderma genus:anolis hastypestatus:1" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:Pseustes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "rana sphenocephala arkansas" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS)" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "pelusios gabonensis" ; Times: 2
+	Query: "Eleutherodactylus hedricki" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "clelia clelia panama" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Pelusios castaneus" ; Times: 5
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Atractus occidentalis " ; Times: 1
+	Query: "Eleutherodactylus casparii" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:leopardinus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "ANSP 6091" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Desmognathus auriculatus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:exoletus genus:Chironius stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:diastema genus:Micrurus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:orbiculare genus:Phrynosoma stateprovince:&#34;Puebla&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhabdophis swinhonis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:variabilis genus:Sceloporus class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "specificepithet:nigrocinctus genus:Micrurus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Scaphiodontophis country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen class:Reptilia county:&#34;Kershaw&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scaphiodontophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mcintosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Connecticut&#34;" ; Times: 2
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:crepitans genus:Acris stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "pseudemys concinna stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "St Lucia year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:diastema genus:Micrurus stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pseudacris feriarum mississippi" ; Times: 2
+	Query: "kirtlandii stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Geophis tarascae" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 3
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM)" ; Times: 4
+	Query: "anolis binotatus" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "Sceloporus undulatus mississippi" ; Times: 2
+	Query: "Ptychohyla euthysanota" ; Times: 6
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 2
+	Query: "genus:Masticophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "specificepithet:boa genus:aplopeltura" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "B. marmoratus" ; Times: 5
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "genus:Anilius stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "ANSP 11075" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Coluber constrictor Escambia County Florida" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Marion&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Sebastian&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:elaps genus:Atractus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Chelus fimbriata" ; Times: 2
+	Query: "genus:Pseustes country:&#34;Panama&#34;" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "specificepithet:deppii genus:Cnemidophorus class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:multiventris genus:Chironius stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 3
+	Query: "specificepithet:orbiculare genus:Phrynosoma stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pender&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Graptemys New York" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "specificepithet:indica genus:Dipsas stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Dipsas nicholsi" ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 2
+	Query: "clelia clelia honduras" ; Times: 1
+	Query: "Ambystoma taylori" ; Times: 3
+	Query: "genus:Heloderma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 10
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:serpentina genus:Chelydra stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Tennessee&#34;" ; Times: 7
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34; institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:squamosus genus:Sceloporus class:Reptilia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Lapemis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:ferox genus:Apalone stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "genus:Microcaecilia specificepithet:unicolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 128 (out of 1171 download events in this period)
+Total number of records downloaded: 3078
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 23
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 79
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 15
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 7
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-27 ; Times: 8
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-29 ; Times: 21
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 6
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-19 ; Times: 5
+	Date: 2020-04-18 ; Times: 7
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 7
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "specificepithet:narisovalis genus:Thorius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "pseudemys concinna stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Tropidurus albemarlensis" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:imitator genus:Desmognathus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "staurotypus triporcatus" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "Opisthotropis latouchii" ; Times: 1
+	Query: "Pseudemys peninsularis" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "specificepithet:cerastes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 3
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "specificepithet:wehrlei genus:plethodon stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "specificepithet:diademata genus:Ninia" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Amphiesma sauteri" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:aureolus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 2
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "hynobius" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34; institutioncode:ANSP" ; Times: 1
+	Query: "clelia clelia honduras" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:teyahalee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Sinonatrix annularis" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "genus:rhinobothryum" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "staurotypus salvinii" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Eumeces" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Batrachoseps nigriventris" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;California&#34; country:&#34;U.S.A&#34; hastypestatus:1" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Philothamnus heterolepidotus" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Thamnophis couchii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "specificepithet:nigriventris genus:Batrachoseps" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "genus:Lapemis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Rhabdophis swinhonis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Reptilia county:&#34;Kershaw&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Thamnophis elegans terrestris" ; Times: 1
+	Query: "Melanosuchus niger" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+
+End of report.
